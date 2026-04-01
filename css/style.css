@@ -113,7 +113,7 @@ button {
   padding-bottom: 12px;
 }
 .hero ul li {
-  font-size: 5vw;
+  font-size: 4.9vw;
   line-height: 1.4;
   padding: 4px 1px 8px;
   margin: 0 auto 12px;
@@ -123,14 +123,10 @@ button {
   overflow: hidden;
 }
 .hero ul li.white {
-    background-position: center;
-  background-size: cover;
   color: #1C1C1C;
   background: linear-gradient(#F9F9F9,#DDDDDD);
 }
 .hero ul li.black {
-  background-position: center;
-  background-size: cover;
   color: #2EB212;
   padding: 4px 1px 8px;
   background: linear-gradient(#353535,#161416);
@@ -282,7 +278,7 @@ button {
 }
 .doctor ul li {
   width: 100%;
-  font-size: 4vw;
+  font-size: 4.1vw;
   line-height: 1.5;
   margin-bottom: 6px;
   text-align: center;
